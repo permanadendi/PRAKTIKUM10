@@ -23,3 +23,5 @@
 <p> • Buat flowchart dan penjelasan programnya pada README.md.
 
 ![Gambar 2](screenshot/s2.png)
+
+![Gambar 3](screenshot/flowchart.png)
